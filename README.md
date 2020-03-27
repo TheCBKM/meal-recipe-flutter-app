@@ -7,6 +7,7 @@
 Data get destroyed when we close the app .
 
 ## Screenshots
+<img src="screenshots/7.jpeg" width=200/>
 ![](screenshots/7.jpeg) 
 ![](screenshots/6.jpeg) 
 ![](screenshots/5.jpeg) 
