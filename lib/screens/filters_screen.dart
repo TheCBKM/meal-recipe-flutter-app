@@ -79,6 +79,14 @@ class _FilterScreenState extends State<FilterScreen> {
                         _glutenFree = v;
                       },
                     );
+                    Map<String, bool> _filters = {
+                  'gluten': _glutenFree,
+                  'lactose': _lactose,
+                  'vege': _vegetarian,
+                  'vegan': _vegan,
+                };
+
+                widget.setFilters(_filters);
                   }),
                   _buildSwitchListTitle("Lactose-free",
                       "Only include Lactose-free meals,", _lactose, (v) {
@@ -87,6 +95,14 @@ class _FilterScreenState extends State<FilterScreen> {
                         _lactose = v;
                       },
                     );
+                    Map<String, bool> _filters = {
+                  'gluten': _glutenFree,
+                  'lactose': _lactose,
+                  'vege': _vegetarian,
+                  'vegan': _vegan,
+                };
+
+                widget.setFilters(_filters);
                   }),
                   _buildSwitchListTitle("Vegiterian",
                       "Only include Vegiterian meals,", _vegetarian, (v) {
@@ -95,6 +111,14 @@ class _FilterScreenState extends State<FilterScreen> {
                         _vegetarian = v;
                       },
                     );
+                    Map<String, bool> _filters = {
+                  'gluten': _glutenFree,
+                  'lactose': _lactose,
+                  'vege': _vegetarian,
+                  'vegan': _vegan,
+                };
+
+                widget.setFilters(_filters);
                   }),
                   _buildSwitchListTitle(
                       "Vegan", "Only include Vegan meals,", _vegan, (v) {
@@ -103,6 +127,14 @@ class _FilterScreenState extends State<FilterScreen> {
                         _vegan = v;
                       },
                     );
+                    Map<String, bool> _filters = {
+                  'gluten': _glutenFree,
+                  'lactose': _lactose,
+                  'vege': _vegetarian,
+                  'vegan': _vegan,
+                };
+
+                widget.setFilters(_filters);
                   })
                 ],
               ),
