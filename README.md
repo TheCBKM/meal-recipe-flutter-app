@@ -7,13 +7,14 @@
 Data get destroyed when we close the app .
 
 ## Screenshots
-![](screenshots/7.jpeg) 
-![](screenshots/6.jpeg) 
-![](screenshots/5.jpeg) 
-![](screenshots/4.jpeg) 
-![](screenshots/3.jpeg) 
-![](screenshots/2.jpeg) 
-![](screenshots/1.jpeg) 
+<img src="screenshots/7.jpeg" width=400/>
+<img src="screenshots/6.jpeg" width=400/>
+<img src="screenshots/5.jpeg" width=400/>
+<img src="screenshots/4.jpeg" width=400/>
+<img src="screenshots/3.jpeg" width=400/>
+<img src="screenshots/2.jpeg" width=400/>
+<img src="screenshots/1.jpeg" width=400/>
+
 
 
  
