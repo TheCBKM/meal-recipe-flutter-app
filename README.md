@@ -1,16 +1,20 @@
-# meal_app
+# Meal Recipe Flutter App
+### This is an static flutter app where :-
+- We can view the recipe .
+- Can filter  recipes based on 4 parameters.
+- Mark recipes as favorite.
+### Note:- This is a static project 
+Data get destroyed when we close the app .
 
-A new Flutter project.
+## Screenshots
+![](screenshots/7.jpeg) 
+![](screenshots/6.jpeg) 
+![](screenshots/5.jpeg) 
+![](screenshots/4.jpeg) 
+![](screenshots/3.jpeg) 
+![](screenshots/2.jpeg) 
+![](screenshots/1.jpeg) 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+ 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
